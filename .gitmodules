@@ -3,4 +3,4 @@
 	url = https://github.com/PandoraCoCo/LibA.git
 [submodule "LibB"]
 	path = LibB
-	url = ./LibB.git
+	url = https://github.com/PandoraCoCo/LibB.git
